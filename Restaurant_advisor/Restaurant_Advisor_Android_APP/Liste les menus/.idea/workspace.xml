@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6c23216-acf6-45fd-8192-cf9b77e2b9e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/API/UserController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/Auth/ConfirmPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/MenuController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/RestaurantController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/Restaurant_MenuController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/UsersController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Menu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Restaurant.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2020_03_28_200812_create_restaurant_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/migrations/2020_03_28_200818_create_menu_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/seeds/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/seeds/MenuTableSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/seeds/RestaurantTableSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/seeds/UsersTableSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/js/components/ExampleComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/auth/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/auth/passwords/confirm.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/auth/passwords/email.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/auth/passwords/reset.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/auth/register.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/auth/verify.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/home.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/layouts/app.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Controllers/API/UserController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Controllers/Auth/ConfirmPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Controllers/MenuController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Controllers/RestaurantController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Controllers/Restaurant_MenuController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Controllers/UsersController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Menu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/Restaurant.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/database/migrations/2020_03_28_200812_create_restaurant_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/database/migrations/2020_03_28_200818_create_menu_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/database/seeds/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/database/seeds/MenuTableSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/database/seeds/RestaurantTableSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/database/seeds/UsersTableSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/public/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/js/components/ExampleComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/views/auth/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/views/auth/passwords/confirm.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/views/auth/passwords/email.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/views/auth/passwords/reset.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/views/auth/register.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/views/auth/verify.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/views/home.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/views/layouts/app.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_API/webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/UI-LoginApp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/menu/menu_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/java/com/example/myapplication/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/java/com/example/myapplication/ui/main/MainFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/java/com/example/myapplication/ui/main/MainViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/layout/main_activity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/layout/main_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/MyApplication2/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Restaurant_Advisor_Android_APP/ui_login1/UI-LoginApp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /Api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/.idea/caches/gradle_models.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/androidTest/java/net/simplifiedlearning/volleymysqlexample/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/java/net/simplifiedlearning/volleymysqlexample/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/java/net/simplifiedlearning/volleymysqlexample/Restaurant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/java/net/simplifiedlearning/volleymysqlexample/RestaurantAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/res/layout/product_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/app/src/test/java/net/simplifiedlearning/volleymysqlexample/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /VolleyMySQLExample/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RetrieiveDataFromMySQLDatabaseVolley /products.sql" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Liste les menus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="buildConfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6c23216-acf6-45fd-8192-cf9b77e2b9e5" name="Default Changelist" comment="" />
+      <created>1586081777404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586081777404</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="877" extended-state="0" />
+    <layout>
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3297568" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

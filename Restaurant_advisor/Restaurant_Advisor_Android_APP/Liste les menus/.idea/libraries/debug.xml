@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/debug_f3a8acd3d496c36f97aff0a85d0973409a42b00d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/classes_c2082b4dc9218f52ea8e957620a265b4d8d96b0c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/classes_72b479f62d20f9046004175307c46e5bcfcb4c24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/classes_d36b152ce6c179c66c80e7fd79e499b525c8e4b9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/common-1.0.0_68b1411cc9c7e04bc9e126025adcc882eab7bc90.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/glide-4.2.0_2b10211e63e4318cd32a663a1703065664c2ea7c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/classes_5583438609bca31bc345cff34a269bad301703f0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/classes_de805b29342e198011f5abba4ea8be873a2dcd24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/annotations-4.2.0_d01291ea946088f615a553de48d528050bc069bc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/classes_a62b0514471a8f16227036a59f937ed11ce122ed.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/classes_c9dcea154e25d28b12e1a50bf9ba802cdd708957.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/disklrucache-4.2.0_9f50b9c26ac466bd2fbde4ad4ae1296dda1da82f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/classes_7f394b8a05895ed1b6300f12d4d4918f0daca327.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/classes_e88e0785f045af7a22a106820f796d58aee2562b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/common-1.0.0_9c6c434f22b918e231c8a87db454c41df006703c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/classes_c129b93bb26e30fc5a93389e48f3b7d7b0621401.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/classes_9e83b1a5dd4237b560811516378dc02a08966c27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/classes_98dc335ef31e8fac52b1e0ea58395f914c1029e8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/gifdecoder-4.2.0_bfbadaca21114d47555a5bdd168de7ef7f38a806.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/classes_a18c6df332056cd2c0356cae5e55dfe7ad2319e1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_8d4b63cdcd6e4ec0a6228b8c77d5f18533a38b1e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VolleyMySQLExample/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_85237c077a8c3bf84128edd1d58b3b0c9ffa1013.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
